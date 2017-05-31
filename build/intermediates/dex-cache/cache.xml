@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/heidsoft/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_dce387d8bce0ac2ecb0ad0861874745968f4cf8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cac96596ba9fae45f45c8af3c1c96bcceaad7b2">
+        <dex dex="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0fc71f51848a2de1cad7a84a83c8a8b774ceefc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heidsoft/.android/build-cache/564c887cc63d835b05bf20ce56715115f489b3aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a1aaa3f64b65a611be4c54d0dfc5606ca55226c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/heidsoft/work/android_code/NgCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7b917d256c00c9038511ebc54a4515a5b2ddf14/classes.dex" />
+    </item>
+
+</items>
